@@ -1,2 +1,2 @@
 # HighWaterMark
-HWM project for coding group
+HWM project
