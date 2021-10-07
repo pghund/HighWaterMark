@@ -3,6 +3,6 @@ High water marks are used to compute the performance fees paid to a hedge fund b
 
 At the investment company I used a Monte Carlo type simulation with randomly sampled past returns to simulate future outcomes. I could then simulate each renegotiated contract many times and compare statistics on the outcomes. This used nonpublic data however.
 
-The file 
+Filinggrabber pulls 13Fs for a particular list of hedge funds. These are filings in which large hedge funds must report their long holdings. Using this, I can try to make a proxy for past returns. 
 
 
